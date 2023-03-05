@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my personal projects are available at [https://github.com/arhankundu99](https://github.com/arhankundu99)
 
-- 💬 Ask me about **Java, Javascript, Python, C++, HTML, CSS, Node, Express**
+- 💬 Ask me about **Java, Javascript, Python, C++, HTML, CSS, React, Node, Express**
 
 - 📫 How to reach me **arhankundu99@gmail.com**
 
