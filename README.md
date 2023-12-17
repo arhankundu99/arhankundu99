@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arhan Kundu</h1>
-<h3 align="center">Software Developer At JLR India</h3>
+<h3 align="center">SDE 2 at JioCinema | Ex - Software Engineer at JLR India</h3>
 
-- 🌱 I’m passionate about **Web and android development**
+- 🌱 I’m passionate about **Backend Development**
 
 - 👨‍💻 All of my personal projects are available at [https://github.com/arhankundu99](https://github.com/arhankundu99)
-
-- 💬 Ask me about **Java, Javascript, Python, C++, HTML, CSS, React, Node, Express**
 
 - 📫 How to reach me **arhankundu99@gmail.com**
 
